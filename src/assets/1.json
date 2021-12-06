@@ -1,0 +1,19 @@
+{
+  "name": "elementalist-lux",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "28U1hae4bA1DtPofaQuqVeW9dm39gFZ2nuwa3gumif9Z",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "program": {
+    "uuid": "DMDR3V",
+    "config": "DMDR3V3GgNJZ1tTu3AiFNygJHrLt9GvWsTEoXrLrEjtj"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/tAMA8U-aryYD-9HCifJTMO0nnDUBgRnZ2dHAfkDlxOY",
+      "name": "sentinel-diana",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/fQ73D6duw_RB2BpVe8TuCV1DojkCpU8EmAKuV5RfVo8",
+      "name": "elementalist-lux",
+      "onChain": true
+    },
+    "2": {
+      "link": "https://arweave.net/RevZTLrY9pdp6ZgmGWcLWA_4AltySv5SgyOrf4jblPs",
+      "name": "qiyana-true-damage",
+      "onChain": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "authority": "28U1hae4bA1DtPofaQuqVeW9dm39gFZ2nuwa3gumif9Z",
+  "candyMachineAddress": "4E478A35jt5CNTdBMKnhT5n9kxHucSUc71QGPuhZ1Zkc",
+  "startDate": 1638317550
+}

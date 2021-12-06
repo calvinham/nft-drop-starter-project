@@ -1,0 +1,19 @@
+{
+  "name": "sentinel-diana",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "28U1hae4bA1DtPofaQuqVeW9dm39gFZ2nuwa3gumif9Z",
+        "share": 100
+      }
+    ]
+  }
+}
